@@ -1,0 +1,11 @@
+C:\Users\Vishn\Code\PSP34\target\debug\deps\cargo_metadata-a382913bb4e000a1.rmeta: C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\lib.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\dependency.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\diagnostic.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\errors.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\messages.rs
+
+C:\Users\Vishn\Code\PSP34\target\debug\deps\libcargo_metadata-a382913bb4e000a1.rlib: C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\lib.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\dependency.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\diagnostic.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\errors.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\messages.rs
+
+C:\Users\Vishn\Code\PSP34\target\debug\deps\cargo_metadata-a382913bb4e000a1.d: C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\lib.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\dependency.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\diagnostic.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\errors.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\messages.rs
+
+C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\lib.rs:
+C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\dependency.rs:
+C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\diagnostic.rs:
+C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\errors.rs:
+C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.13.1\src\messages.rs:

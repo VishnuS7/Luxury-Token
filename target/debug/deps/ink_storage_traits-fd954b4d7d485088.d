@@ -1,0 +1,11 @@
+C:\Users\Vishn\Code\PSP34\target\debug\deps\ink_storage_traits-fd954b4d7d485088.rmeta: C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\lib.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\impls\mod.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\storage.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\layout\mod.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\layout\impls.rs
+
+C:\Users\Vishn\Code\PSP34\target\debug\deps\libink_storage_traits-fd954b4d7d485088.rlib: C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\lib.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\impls\mod.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\storage.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\layout\mod.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\layout\impls.rs
+
+C:\Users\Vishn\Code\PSP34\target\debug\deps\ink_storage_traits-fd954b4d7d485088.d: C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\lib.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\impls\mod.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\storage.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\layout\mod.rs C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\layout\impls.rs
+
+C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\lib.rs:
+C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\impls\mod.rs:
+C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\storage.rs:
+C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\layout\mod.rs:
+C:\Users\Vishn\.cargo\registry\src\github.com-1ecc6299db9ec823\ink_storage_traits-4.0.1\src\layout\impls.rs:

@@ -1,0 +1,13 @@
+C:\Users\Vishn\Code\PSP34\target\debug\deps\obce_codegen-04bd18b996c61a6b.rmeta: C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src/lib.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\definition.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\error.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\implementation.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\mock.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\types.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\utils.rs
+
+C:\Users\Vishn\Code\PSP34\target\debug\deps\libobce_codegen-04bd18b996c61a6b.rlib: C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src/lib.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\definition.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\error.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\implementation.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\mock.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\types.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\utils.rs
+
+C:\Users\Vishn\Code\PSP34\target\debug\deps\obce_codegen-04bd18b996c61a6b.d: C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src/lib.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\definition.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\error.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\implementation.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\mock.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\types.rs C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\utils.rs
+
+C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src/lib.rs:
+C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\definition.rs:
+C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\error.rs:
+C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\implementation.rs:
+C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\mock.rs:
+C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\types.rs:
+C:\Users\Vishn\.cargo\git\checkouts\obce-633ec9403b524075\d452f6e\codegen\src\utils.rs:
